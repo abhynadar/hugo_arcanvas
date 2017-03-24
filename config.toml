@@ -1,0 +1,7 @@
+baseURL = "https://abhynadar.github.io/arcanvas/"
+languageCode = "en-us"
+title = "AR Canvas"
+
+[Params]
+  Author = "Abhy N"
+  disqusShortname = "arcanvas"

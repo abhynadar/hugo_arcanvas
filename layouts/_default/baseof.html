@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#">
   <head>
+    <meta property="og:image" content="default.png" />
+    <meta property="og:image:width" content="0" />
     {{ partial "meta.html" . }}
     {{ with .Site.Params.googlefonts }}
     <link href="{{ . }}" rel="stylesheet">

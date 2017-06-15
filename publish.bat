@@ -13,6 +13,8 @@ git commit -m%comment%
 echo 'pushing to repo...'
 git push -f origin gh-pages
 echo 'finished publishing site!!!'
+git status
+echo 'all done!!!'
 cd..
 echo 'moved back to arcanvas folder...'
 echo 'adding files...'
@@ -22,3 +24,5 @@ git commit -m%comment%
 echo 'pushing to repo...'
 git push -f origin master
 echo 'finished publishing site changes!!!'
+git status
+echo 'all done!!!'

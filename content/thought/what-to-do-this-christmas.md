@@ -5,4 +5,4 @@ draft = false
 
 +++
 
-Find a bible, look for the New Testmanent, read the first four books in the New Testament - Gospel by Mathew, Mark, Luke and John. 
+Find a bible, look for the New Testament, read the first four books in the New Testament - Gospel by Mathew, Mark, Luke and John. 
